@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj</h1>
 
-<h3 align="center">BE.Final Year Student | BE '26🎓 |  Tech Enthusiast !</h3>
+<h3 align="center">Final Year Student | BE '26🎓 |  Tech Enthusiast !</h3>
 
 <br>
 <ul>
