@@ -9,5 +9,5 @@
 </ul>
 <h3>Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,ms excel,power bi,pythonhtml,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
