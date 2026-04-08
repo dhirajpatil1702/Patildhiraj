@@ -4,10 +4,10 @@
 
 <br>
 <ul>
-<li> 🔭 I’m currently working on Web Development</li>
+<li> 🔭 I’m currently working on Data Analyst</li>
 <li> 📫 How to reach me <a href="patildhiraj1702@gmail.com">patildhiraj1702@gmail.com</a></li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=sql,ms excel,power bi,pythonhtml,css,js" />
 </p>
